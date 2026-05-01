@@ -87,10 +87,10 @@ Make sure you have `node >= 20.11.1` and `npm >= 10.2.4` installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ABDELLAH-03/YOUR-REPO-NAME.git
+git clone https://github.com/ABDELLAH-03/masterPortfolio
 
 # Navigate into the project
-cd YOUR-REPO-NAME
+cd masterPortfolio
 
 # Install dependencies
 npm install
@@ -113,7 +113,7 @@ npm run deploy
 Then go to your repository **Settings → Pages** and select the `gh-pages` branch.
 
 Your portfolio will be live at:  
-👉 `https://ABDELLAH-03.github.io/YOUR-REPO-NAME`
+👉 `https://ABDELLAH-03.github.io/masterPortfolio`
 
 ---
 
