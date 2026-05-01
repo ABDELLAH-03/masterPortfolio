@@ -20,7 +20,7 @@ const Contact = (props) => {
     email: "",
     message: "",
   });
-  const [errors, setErrors] = useState({});
+  const [, setErrors] = useState({});
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
 
