@@ -4,6 +4,7 @@ export const blueTheme = {
   text: "#001C55",
   expTxtColor: "#000a12",
   highlight: "#A6E1FA",
+  highlight1: "#85cff128",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
   imageHighlight: "#0E6BA8",

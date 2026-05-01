@@ -1,7 +1,6 @@
 {
   "name": "Abdellah Chahdi Portfolio",
-  "background_color": "#ffffff",
-  "display": "standalone",
+  "short_name": "Abdellah",
   "icons": [
     {
       "src": "/icons/favicon-96x96.png",
@@ -17,14 +16,9 @@
       "src": "/icons/logo512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "/icons/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
     }
   ],
-  "short_name": "Abdellah",
-  "start_url": ".",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone"
 }
