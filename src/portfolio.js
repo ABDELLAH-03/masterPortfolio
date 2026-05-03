@@ -407,7 +407,7 @@ const experience = {
   title: "Experience",
   subtitle: "Internship",
   description:
-    "I completed an internship at a ministry where I gained valuable practical experience and developed my technical skills. During this internship, I learned and worked with modern frameworks such as React and Laravel, which helped me strengthen my understanding of web development and improve my problem-solving abilities. This experience allowed me to enhance both my knowledge and my ability to work in a professional environment.",
+    "I completed two internships that significantly strengthened both my technical expertise and my soft skills. Throughout these experiences, I worked with modern web technologies such as React and Laravel, which enhanced my development capabilities and problem-solving approach. Additionally, collaborating in professional environments helped me improve my communication, teamwork, adaptability, and time management skills, allowing me to become more effective and confident in real-world projects.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -416,13 +416,12 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Developer",
-          company:
-            "Ministère de l’Énergie, des Mines et de l’Environnement - Département de l’Environnement",
-          logo_path: "ministere.png",
-          duration: "march 2023 - Mai 2023",
-          location: "Morocco, Rabat",
+          company: "CAPELLA Engineering",
+          logo_path: "capella_3.png",
+          duration: "February 2024 - August 2024",
+          location: "Morocco, Mohammédia",
           description:
-            "Developed and maintained web applications for the Ministry of Energy, Mines and Environment. Implemented CI/CD pipelines reducing deployment time by 60%, and optimized application performance resulting in 40% faster load times.",
+            "Completed an internship at CAPELLA Engineering, where I contributed to the development of internal web applications aimed at digitizing and optimizing company workflows. Participated in building a local application to streamline task management and improve operational efficiency. Also assisted in developing a document management system to centralize, organize, and facilitate access to company files.",
           color: "#000000",
         },
         {
