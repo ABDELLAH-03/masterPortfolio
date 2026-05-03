@@ -3,7 +3,6 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import { Fade } from "react-reveal";
 import "./Resume.css";
-import myResumePdf from "/CV-Abdellah-CHAHDi.pdf";
 import { Document, Page, pdfjs } from "react-pdf";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
@@ -77,6 +76,7 @@ export default class ResumePage extends Component {
   render() {
     const theme = this.props.theme;
     const { pageWidth, numPages, currentPage, isLoading, error } = this.state;
+    const myResumePdf = "/CV-Abdellah-CHAHDi.pdf";
 
     return (
       <div className="resume-main">
